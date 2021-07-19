@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b115f4e40ebe9c949856e1ae007c1103, type: 3}
+  m_Name: Ment Wave Config 1
+  m_EditorClassIdentifier: 
+  personPrefab: {fileID: 8810969157561378536, guid: 8affccbba3603c442ac22fb64356f27d,
+    type: 3}
+  pathPrefab: {fileID: 2029985397162215744, guid: 2ca0d2193399449479aed61c4f4ab203,
+    type: 3}
+  timeForSpawns: 1
+  spawnRandomizer: 2
+  numberSpawnsAtOnce: 2
+  moveSpeed: 2

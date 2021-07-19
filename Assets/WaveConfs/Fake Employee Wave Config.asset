@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b115f4e40ebe9c949856e1ae007c1103, type: 3}
+  m_Name: Fake Employee Wave Config
+  m_EditorClassIdentifier: 
+  personPrefab: {fileID: 3841215476881756368, guid: 03156d9b6a1e2f74b8ad0af4738d561c,
+    type: 3}
+  pathPrefab: {fileID: 7164347289473284370, guid: 900a325a7675eac4499e02249f790e7d,
+    type: 3}
+  timeForSpawns: 2
+  spawnRandomizer: 5
+  numberSpawnsAtOnce: 1
+  moveSpeed: 2
